@@ -60,6 +60,9 @@ La connessione si chiude automaticamente dopo aver visualizzato i dettagli della
 - Puoi modificare l'indirizzo IP e la porta nel codice in base alle tue esigenze.
 - Regola i valori di timeout e altri parametri secondo le necessità.
 
+## Documentazione
+La completa documentazione della classe Socket per poterla comprendere al meglio è disponibile [qui](https://docs.oracle.com/javase/tutorial/networking/sockets/index.html)
+
 ## Riconoscimenti
 
 - Questo progetto è una semplice implementazione dei socket a scopo educativo.
