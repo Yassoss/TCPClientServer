@@ -1,4 +1,4 @@
-# Progetto di Comunicazione Socket in Java
+# Progetto di comunicazione Socket in Java
 
 ## Panoramica
 
